@@ -13,3 +13,6 @@ Now is the moment to modify the repository code (add, remove or edit files). Aft
 1. Commit changes (be concise , write in past tense)<br>`git commit -m "Leave a message"`
 1. `git pull --rebase` <br>*Got conflict messages? Open concerned files, verify the tagged `>>> CODE BLOCKS <<<`, manually delete undesired code (including the `>>> <<<` signs) and keep desried code only.*
 1. `git push`
+
+![In case of fire](https://github.com/louim/in-case-of-fire/blob/master/in_case_of_fire.png?raw=true)
+*Image: [Louis-Michel Couture on Github](https://github.com/louim/in-case-of-fire/)*
